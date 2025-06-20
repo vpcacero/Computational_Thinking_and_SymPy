@@ -1,7 +1,5 @@
 This mini-project demonstrates how to use SymPy, a Python library for symbolic mathematics. Tasks include basic calculations, symbolic equations, simplification, and expansion of algebraic expressions.
 
----
-
 ##  Task #1: Include All Necessary SymPy Modules
 
 **Purpose:**
