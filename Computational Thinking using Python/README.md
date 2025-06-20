@@ -1,3 +1,5 @@
+This project explores the Titanic dataset using Python and Pandas. It covers data loading, cleaning, and basic statistical analysis to find patterns, especially around survival rates and age.
+
 ##  Question 1: Load the Dataset
 
 **Goal:**
