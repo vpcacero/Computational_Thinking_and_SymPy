@@ -1,5 +1,7 @@
 ---
+
 This project explores the Titanic passenger dataset by first **cleaning** the data and then **analyzing survival patterns** based on class, family members, and embarkation point.
+
 ---
 
 ##  Question 1: Load and Prepare the Dataset
