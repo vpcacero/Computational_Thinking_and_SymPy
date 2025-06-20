@@ -1,7 +1,5 @@
 This notebook introduces key symbolic math concepts using the **SymPy** library in Python. It includes playing with algebraic expressions, limits, derivatives, series expansions, and solving equations all done programmatically.
 
----
-
 ##  Task 1: Playing with Symbols
 
 ###  Code:
